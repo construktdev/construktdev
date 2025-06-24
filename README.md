@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ich bin Construkter! Ich bin 16 Jahre alt und komme aus Sachsen. Ich programmiere sehr viel mit Java, und lerne zurzeit die Webentwicklung mit HTML, CSS, JS und PHP
+Hi ich bin Construkter! Ich bin 17 Jahre alt und komme aus Sachsen. Ich programmiere sehr viel mit Java, und lerne zurzeit die Webentwicklung mit HTML, CSS, JS und PHP
 
 
 ## 🌐 Socials:
