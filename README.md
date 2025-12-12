@@ -11,7 +11,7 @@ Hi ich bin Construkter! Ich bin 17 Jahre alt und komme aus Sachsen. Ich programm
 [![](https://github-readme-stats.vercel.app/api?username=construktdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=construktdev&icon=1&color=0)](https://visitcount.itsvg.in)
+<img src="https://cdn.construkter.de/sgd.png" align="center" height="100px" style="margin-left: 10px">
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/C0NGHG) 
